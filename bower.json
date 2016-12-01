@@ -16,6 +16,11 @@
     "tests"
   ],
   "dependencies": {
-    "angular-ui-grid": "^3.2.9"
+    "angular": "latest",
+    "angular-animate": "latest",
+    "angular-mocks": "latest",
+    "angular-route": "latest",
+    "angular-touch": "latest",
+    "angular-ui-grid": "latest"
   }
 }
