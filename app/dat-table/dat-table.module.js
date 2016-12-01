@@ -1,5 +1,5 @@
 'use strict';
 
-angular.module('datTable', []);
+angular.module('datTable', ['core.data']);
 
 console.log('dat-table module loaded');
